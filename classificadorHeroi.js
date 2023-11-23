@@ -35,7 +35,7 @@ switch (true) {
 console.log(`O Herói de nome ${nomeDoHeroi} está no nível de ${nivelDoHeroi}`);
 
 
-
+//utilizando if else
 /*let nomeDoHeroi = "Batman"; 
 let experienciaDoHeroi = 7000; 
 
