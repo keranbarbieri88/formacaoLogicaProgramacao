@@ -27,8 +27,6 @@ class Hero {
 
 }
 
-
-
 let message = new Hero("Keran","35","guerreiro")
 
 message.attack("guerreiro");
